@@ -13,8 +13,8 @@ public class Example {
 	public static void main(String[] args) throws IOException{
 		
 		
-		log.debug("Number is smaller than 100, so it is correct!");
-		log.info("Number is smaller than 100, so it is correct!");
-		log.error("Number is smaller than 100, so it is correct!");
+		log.debug("Numberd is smaller than 100, so it is correct!");
+		log.info("Numberd is smaller than 100, so it is correct!");
+		log.error("Numbedr is smaller than 100, so it is correct!");
 	}
 }
